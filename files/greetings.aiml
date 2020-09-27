@@ -19,12 +19,20 @@ Mexican, Japanese, Itlian and Thai.
     Great, getting receipe 
     for <set name="cuisine_name"><star/></set> food. <br></br>
     <condition name="cuisine_name">
-        <li value= "thai">For Thai cuisine, I recommend Pad Thai<br></br></li>
-        <li value= "chinese">For Chinese cuisine, I recommend Mongolian Beef<br></br></li>
-        <li value= "mexican">For Mexican cuisine, I recommend Mexican Rice<br></br></li>
-        <li value= "japanese">For Japanese cuisine, I recommend Hibachi Chicken<br></br></li>
-        <li value= "itilian">For Itilian cuisine, I recommend Lasagna<br></br></li>
-        <li> cuisine not recognized</li>
+        <li value= "thai">For Thai cuisine, I recommend Pad Thai. Pad Thai is a 
+        Thai street food. I like the sweet and spicy flavor. It's a must order food 
+        at Thai restaurant. <br></br></li>
+        <li value= "chinese">For Chinese cuisine, I recommend Mongolian Beef. I
+        like the sauce with rice together and sweet sour flavor beef.<br></br></li>
+        <li value= "mexican">For Mexican cuisine, I recommend Mexican Rice. 
+        I like to have Mexican rice every time I order tacos. In Mexican
+        cuisine, I always like Mexican rice as a side dish.<br></br></li>
+        <li value= "japanese">For Japanese cuisine, I recommend Hibachi Chicken.
+        I like the sweet flavor of the chicken mixed with vegatables served over rice.<br></br></li>
+        <li value= "italian">For Italian cuisine, I recommend Lasagna. Lasagna 
+        is my favorite dish in Italian cuisine. I like the fillings with cheese 
+        and sasuage between layers. <br></br></li>
+        <li>Cuisine not recognized.We have Chinese, Mexican, Japanese, Itlian and Thai food. </li>
     </condition>
     Type "Ingredients" for a list of ingredients. <br></br>
     Type "Instructions" for cooking instructions. Or type another cuisine name
@@ -48,10 +56,10 @@ Mexican, Japanese, Itlian and Thai.
         cuisine, I always like Mexican rice as a side dish.<br></br></li>
         <li value= "japanese">For Japanese cuisine, I recommend Hibachi Chicken.
         I like the sweet flavor of the chicken mixed with vegatables served over rice.<br></br></li>
-        <li value= "itilian">For Itilian cuisine, I recommend Lasagna. Lasagna 
-        is my favorite dish in Itilian cuisine. I like the fillings with cheese 
+        <li value= "italian">For Italian cuisine, I recommend Lasagna. Lasagna 
+        is my favorite dish in Italian cuisine. I like the fillings with cheese 
         and sasuage between layers. <br></br></li>
-        <li> cuisine not recognized</li>
+        <li>Cuisine not recognized.We have Chinese, Mexican, Japanese, Itlian and Thai food. </li>
     </condition>
     Type "Ingredients" for a list of ingredients. <br></br>
     Type "Instructions" for cooking instructions. Or type another cuisine name
@@ -85,8 +93,8 @@ Mexican, Japanese, Itlian and Thai.
     5 Tablespoons light brown sugar<br></br>
     1 Tablespoon Sriracha hot sauce. Sriracha hot sauce is hot sauce or chili 
     sauce made from a paste of chili peppers<br></br>
-    
-    
+    Type "Instructions" for cooking instructions. Or type another cuisine name
+    to have my recommended dish for that cuisine
     </li>
     <li value="chinese">
     <b>Ingredients for Mongolian Beef:</b>
@@ -106,7 +114,7 @@ Mexican, Japanese, Itlian and Thai.
     Type "Instructions" for cooking instructions. Or type another cuisine name
     to have my recommended dish for that cuisine
     </li>
-    <li value="itilian">
+    <li value="italian">
     <b>Ingredients for Lasagna:</b>
     9 regular lasagna noodles. Lasagne are a type of wide, flat pasta<br></br>
     1 pound shredded mozzarella cheese. Mozzarella is a traditionally southern 
@@ -182,8 +190,10 @@ Mexican, Japanese, Itlian and Thai.
     5. Push everything to the side of the pan. Add a little more oil and add the beaten eggs. Scramble the eggs, breaking them into small pieces with a spatula as they cook.<br></br>
     6. Add noodles, sauce, bean sprouts and peanuts to the pan (reserving some peanuts for topping at the end). Toss everything to combine.<br></br>
     7. Top with green onions, extra peanuts, cilantro and lime wedges. Serve immediately!<br></br>
+    Type "Ingredients" for a list of ingredients. Or type another cuisine name
+    to have my recommended dish for that cuisine
     </li>
-    <li value="itilian">
+    <li value="italian">
     <b>Instructions for Lasagna:</b>
     <b>For the White Sauce:</b>
     1. Add the butter to a medium size saucepan or large skillet. Over medium heat. Once melted, add the flour, stirring constantly to combine 2 minutes. <br></br>
@@ -247,4 +257,8 @@ Mexican, Japanese, Itlian and Thai.
 <template><srai>ingredients</srai></template>
 </category>
 
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
 </aiml>
