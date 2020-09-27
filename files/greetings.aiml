@@ -24,7 +24,7 @@ Mexican, Japanese, Itlian and Thai.
         at Thai restaurant. <br></br></li>
         <li value= "chinese">For Chinese cuisine, I recommend Mongolian Beef. I
         like the sauce with rice together and sweet sour flavor beef.<br></br></li>
-        <li value= "mexican">For Mexican cuisine, I recommend Mexican Rice. 
+        <li value= "mexican">For Mexican cuisimexianne, I recommend Mexican Rice. 
         I like to have Mexican rice every time I order tacos. In Mexican
         cuisine, I always like Mexican rice as a side dish.<br></br></li>
         <li value= "japanese">For Japanese cuisine, I recommend Hibachi Chicken.
@@ -73,102 +73,102 @@ Mexican, Japanese, Itlian and Thai.
     <condition name="cuisine_name">
     <li value="thai">
     <b>Ingredients for Pad Thai:</b>
-    8 ounces flat rice noodles. 
-    Thin rice noodles are typically used, but any width will work.<br></br>
-    3 Tablespoons oil. Any kind of mild oil that you like will work 
+    1. 8 ounces flat rice noodles. 
+    2. Thin rice noodles are typically used, but any width will work.<br></br>
+    3. 3 Tablespoons oil. Any kind of mild oil that you like will work 
     — olive oil, avocado oil, peanut oil, coconut oil, etc.<br></br>
-    3 cloves garlic, minced <br></br>
-    8 ounces uncooked shrimp, chicken, or extra-firm tofu, cut into small pieces<br></br>
-    2 eggs<br></br>
-    1 cup fresh bean sprouts<br></br>
-    1 red bell pepper, thinly sliced<br></br>
-    3 green onions, chopped<br></br>
-    1/2 cup dry roasted peanuts<br></br>
-    2 limes<br></br>
-    1/2 cup fresh cilantro, chopped. Cilantro is a versatile herb<br></br>
+    4. 3 cloves garlic, minced <br></br>
+    5. 8 ounces uncooked shrimp, chicken, or extra-firm tofu, cut into small pieces<br></br>
+    6. 2 eggs<br></br>
+    7. 1 cup fresh bean sprouts<br></br>
+    8. 1 red bell pepper, thinly sliced<br></br>
+    9. 3 green onions, chopped<br></br>
+    10. 1/2 cup dry roasted peanuts<br></br>
+    11. 2 limes<br></br>
+    12. 1/2 cup fresh cilantro, chopped. Cilantro is a versatile herb<br></br>
     <b>For the Pad Thai sauce:</b>
-    3 Tablespoons fish sauce. Fish sauce is the fermented condiment made by 
+    1. 3 Tablespoons fish sauce. Fish sauce is the fermented condiment made by 
     aging anchovies, to add salty funk to nearly any dish<br></br>
-    1 Tablespoon low-sodium soy sauce<br></br>
-    5 Tablespoons light brown sugar<br></br>
-    1 Tablespoon Sriracha hot sauce. Sriracha hot sauce is hot sauce or chili 
+    2. 1 Tablespoon low-sodium soy sauce<br></br>
+    3. 5 Tablespoons light brown sugar<br></br>
+    4. 1 Tablespoon Sriracha hot sauce. Sriracha hot sauce is hot sauce or chili 
     sauce made from a paste of chili peppers<br></br>
     Type "Instructions" for cooking instructions. Or type another cuisine name
     to have my recommended dish for that cuisine
     </li>
     <li value="chinese">
     <b>Ingredients for Mongolian Beef:</b>
-    1 pound flank steak, sliced very thinly. Flank steak is a cut of beef 
+    1. 1 pound flank steak, sliced very thinly. Flank steak is a cut of beef 
     taken from the abdominal muscles or lower chest of the steer<br></br>
-    1/3 cup cornstarch. Corn starch is the starch derived from corn grain, 
+    2. 1/3 cup cornstarch. Corn starch is the starch derived from corn grain, 
     obtained from the endosperm of the kernel<br></br>
-    2-4 Tablespoons oil (vegetable or canola oil) <br></br>
-    1/2 cup low-sodium soy sauce<br></br>
-    1/4 cup water<br></br>
-    1/2 cup light brown sugar, packed<br></br>
-    2 tsp cornstarch + 2 tsp water mixed together <br></br>
-    1 teaspoon freshly grated ginger<br></br>
-    4 cloves garlic, minced<br></br>
-    1 bunch green onion, chopped<br></br>
-    Hot cooked rice <br></br>
+    3. 2-4 Tablespoons oil (vegetable or canola oil) <br></br>
+    4. 1/2 cup low-sodium soy sauce<br></br>
+    5. 1/4 cup water<br></br>
+    6. 1/2 cup light brown sugar, packed<br></br>
+    7. 2 tsp cornstarch + 2 tsp water mixed together <br></br>
+    8. 1 teaspoon freshly grated ginger<br></br>
+    9. 4 cloves garlic, minced<br></br>
+    10. 1 bunch green onion, chopped<br></br>
+    11. Hot cooked rice <br></br>
     Type "Instructions" for cooking instructions. Or type another cuisine name
     to have my recommended dish for that cuisine
     </li>
     <li value="italian">
     <b>Ingredients for Lasagna:</b>
-    9 regular lasagna noodles. Lasagne are a type of wide, flat pasta<br></br>
-    1 pound shredded mozzarella cheese. Mozzarella is a traditionally southern 
+    1. 9 regular lasagna noodles. Lasagne are a type of wide, flat pasta<br></br>
+    2. 1 pound shredded mozzarella cheese. Mozzarella is a traditionally southern 
     Italian cheese made from Italian buffalo's milk by the pasta filata method<br></br>
-    8 ounces freshly grated parmesan cheese. Parmesan is an Italian hard, 
+    3. 8 ounces freshly grated parmesan cheese. Parmesan is an Italian hard, 
     granular cheese that is produced from cow's milk and has aged 12–36 months<br></br>
     <b>Sauce:</b>
-    4 Tablespoons butter<br></br>
-    1/4 cup all-purpose flour<br></br>
-    2 1/2 cups milk<br></br>
-    salt and freshly ground black pepper<br></br>
+    1. 4 Tablespoons butter<br></br>
+    2. 1/4 cup all-purpose flour<br></br>
+    3. 2 1/2 cups milk<br></br>
+    4. salt and freshly ground black pepper<br></br>
     Type "Instructions" for cooking instructions. Or type another cuisine name
     to have my recommended dish for that cuisine
     </li>
     <li value="mexican">
     <b>Ingredients for Mexican Rice:</b>
-    1 1/2 cups long grain white rice. Long grain rice is slim and lengthy, 
+    1. 1 1/2 cups long grain white rice. Long grain rice is slim and lengthy, 
     nearly four to five times longer than it is wide<br></br>
-    1/4 cup oil (vegetable or canola oil)<br></br>
-    1 teaspoon garlic, minced<br></br>
-    1/4 medium onion, finely diced
-    1/4 cup tomato sauce<br></br>
-    2 teaspoons tomato bouillon granulated, or cubes. Tomato flavor bouillon is
+    2. 1/4 cup oil (vegetable or canola oil)<br></br>
+    3. 1 teaspoon garlic, minced<br></br>
+    4. 1/4 medium onion, finely diced<br></br>
+    5. 1/4 cup tomato sauce<br></br>
+    6. 2 teaspoons tomato bouillon granulated, or cubes. Tomato flavor bouillon is
     a granulated mix blending flavors of chicken, tomato, onion, parsley, and spices.<br></br>
-    1/4 teaspoon salt<br></br>
-    1 carrot, diced<br></br>
-    1/2 cup peas<br></br>
-    3 1/4 cups water<br></br>
+    7. 1/4 teaspoon salt<br></br>
+    8. 1 carrot, diced<br></br>
+    9. 1/2 cup peas<br></br>
+    10. 3 1/4 cups water<br></br>
     Type "Instructions" for cooking instructions. Or type another cuisine name
     to have my recommended dish for that cuisine
     </li>
     <li value="japanese">
     <b>Ingredients for Hibachi Chicken:</b>
-    2 teaspoons sesame oil<br></br>
-    2 teaspoons vegetable oil<br></br>
-    2 Tbsp butter<br></br>
-    3 large boneless, skinless chicken breasts, trimmed and cut into 1-inch cubes<br></br>
-    3 Tbsp low sodium soy sauce<br></br>
-    minced garlic<br></br>
-    salt and pepper<br></br>
-    2 zucchinis, chopped. Zucchini is a summer squash<br></br>
-    1 medium onion, chopped<br></br>
-    1 carrot, thinly sliced<br></br>
-    1 8-oz package crimini mushrooms, halved. Cremini mushrooms are commonly 
+    1. 2 teaspoons sesame oil<br></br>
+    2. 2 teaspoons vegetable oil<br></br>
+    3. 2 Tbsp butter<br></br>
+    4. 3 large boneless, skinless chicken breasts, trimmed and cut into 1-inch cubes<br></br>
+    5. 3 Tbsp low sodium soy sauce<br></br>
+    6. minced garlic<br></br>
+    7. salt and pepper<br></br>
+    8. 2 zucchinis, chopped. Zucchini is a summer squash<br></br>
+    9. 1 medium onion, chopped<br></br>
+    10. 1 carrot, thinly sliced<br></br>
+    11. 1 8-oz package crimini mushrooms, halved. Cremini mushrooms are commonly 
     marketed as “baby bella” or “baby portobello” mushrooms<br></br>
-    rice<br></br>
+    12. rice<br></br>
     <b>Sauce:</b>
-    1 cup Hellmann's Mayo. Hellmann's Mayo is a type of Japanese mayo<br></br>
-    1 Tbsp ketchup<br></br>
-    1 Tbsp rice vinegar. Rice vinegar is a type of vinegar made from fermented rice<br></br>
-    3/4 teaspoons paprika. Paprika is a ground spice made from dried red 
+    1. 1 cup Hellmann's Mayo. Hellmann's Mayo is a type of Japanese mayo<br></br>
+    2. 1 Tbsp ketchup<br></br>
+    3. 1 Tbsp rice vinegar. Rice vinegar is a type of vinegar made from fermented rice<br></br>
+    4. 3/4 teaspoons paprika. Paprika is a ground spice made from dried red 
     fruits of sweeter varieties of the plant Capsicum annuum<br></br>
-    1/8 teaspoons garlic powder<br></br>
-    Salt and pepper<br></br>
+    5. 1/8 teaspoons garlic powder<br></br>
+    6. Salt and pepper<br></br>
     Type "Instructions" for cooking instructions. Or type another cuisine name
     to have my recommended dish for that cuisine
     </li>
